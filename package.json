@@ -1,0 +1,21 @@
+{
+  "name": "dictionary-app",
+  "version": "1.0.0",
+  "description": "This is a simple web application that allows users to look up the definitions of words in an online dictionary. It's built using HTML, Bootstrap for styling, and JavaScript for the interactive functionality. Users can enter a word, click the search button, and get information about the word, including its definition and pronunciation.",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hussain760/Dictionary-App.git"
+  },
+  "keywords": [
+    "Dictionary"
+  ],
+  "author": "Hussain Murtaza",
+  "bugs": {
+    "url": "https://github.com/Hussain760/Dictionary-App/issues"
+  },
+  "homepage": "https://github.com/Hussain760/Dictionary-App#readme"
+}
